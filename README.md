@@ -4,5 +4,15 @@ This repository contains resources for the development and implementation of a W
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/145e5a7f-f14a-42c5-b869-6e4879eb4644" />
 
 # Publication & Citation:
-For more information and detailed documentation, please visit the link below. If you use this repository, kindly cite our study as follows:
+For more information and detailed documentation, please contact the main author: 
+
+- Nuno Garcia, junior researcher, VU Amsterdam
+  
+  Contact(s):
+- email: nunogarcia8@gmail.com;
+- ORCID: https://orcid.org/0000-0001-7917-3286;
+-  ResearchGate: https://www.researchgate.net/profile/Nuno-Garcia-4;
+- LinkedIn: https://www.linkedin.com/in/nuno-garcia-97b780158/;
+
+If you use this repository, kindly cite our study as follows:
 - Garcia, N., Campos, J.C., Silva, D., Alírio, J., Duarte, L.B., Arenas-Castro, S., Pôças, I., Loureiro, A., Teodoro, A.C., & Sillero, N. (2024). Biodiversity dataset and atlas of the Special Area of Conservation Montesinho/Nogueira, Portugal. Biodiversity Data Journal, 12: e118854. https://doi.org/10.3897/BDJ.12.e118854
